@@ -1,0 +1,10 @@
+if 有毛发 then 哺乳动物
+if 有乳 then 哺乳动物
+if 吃肉 then 食肉动物
+if 有犬齿 and 有爪 and 眼向前方 then 食肉动物
+if 哺乳动物 and 有蹄 then 有蹄类
+if 哺乳动物 and 反刍动物 then 有蹄类
+if 哺乳动物 and 食肉动物 and 黄褐色 and 暗斑点 then 豹子
+if 哺乳动物 and 食肉动物 and 黄褐色 and 黑条纹 then 老虎
+if 有蹄类 and 长脖子 and 长腿 and 暗斑点 then 长颈鹿 
+if 有蹄类 and 黑条纹 then 斑马
