@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import statsmodels as sm
 from statsmodels.tsa.arima_model import ARIMA
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 import warnings
 
 def data_preprocess(data_real):
