@@ -1,9 +1,3 @@
-The code you've uploaded appears to be a Python script related to image processing using the SURF (Speeded-Up Robust Features) algorithm. It includes functions for extracting SURF features from images, computing matches between features, and performing image retrieval. The script seems to use OpenCV, a popular library for image processing in Python.
-
-Based on this understanding, I can help you create a `README.md` file for your GitHub repository. This file will introduce your project, explain its purpose, and provide instructions on how to set it up and use it. Here's a draft:
-
----
-
 # SURF-Based Image Processing Tool
 
 ## Introduction
