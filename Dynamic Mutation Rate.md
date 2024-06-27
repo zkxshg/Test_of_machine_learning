@@ -1,9 +1,9 @@
 ### 1. 指数递减突变率（Exponentially Decreasing Mutation Rate）
 
 公式：
-$
+
 p_m(t) = \sqrt{\frac{c_1 \exp(-c_3 t / 2)}{c_2 n \sqrt{l}}}
-$
+
 其中：
 - \( $c_1, c_2, c_3$ \) 是常数；
 - ( $t $ ) 是当前的迭代次数；
