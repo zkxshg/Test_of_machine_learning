@@ -21,7 +21,8 @@ $p_m(t) = \sqrt{\frac{c_1 \exp(-c_3 t / 2)}{c_2 n \sqrt{l}}}$
 
 ### ==2. 线性递减突变率（Deterministically Decreasing Mutation Rate）==
 
-公式：$p_m(t) = \left(2 + \frac{l - 2}{T - 1} t \right)^{-1}$
+公式：
+$p_m(t) = \left(2 + \frac{l - 2}{T - 1} t \right)^{-1}$
 
 其中：
 - \( $t$ \) 是当前的迭代次数；
