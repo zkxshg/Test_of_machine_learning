@@ -79,10 +79,9 @@ Droste 提出的循环突变算子是一种动态突变率控制方法，其思�
 
 #### 公式
 Droste 的循环突变率公式如下：
-$p_{\text{Dr}}(t) = \begin{cases} 
-2 *  p(t-1) & \text{if } p(t) <= \frac{1}{2}, \\
-\frac{1}{l} & \text{otherwise}
-\end{cases}$ 
+
+$p_{\text{Dr}}(t) = \begin{cases} 2 *  p(t-1) & \text{if } p(t) <= \frac{1}{2}, \\ \frac{1}{l} & \text{otherwise} \end{cases}$ 
+
 其中，\( $p_{\text{Dr}}(t) $\) 的取值范围为 \($\left[\frac{1}{l}, \frac{1}{2}\right]$\)，方法在 \($\log l$\) 个不同的突变概率之间循环。
 
 #### 特点
